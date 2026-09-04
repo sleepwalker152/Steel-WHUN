@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated Steel-WHUN article when using this framework."
+title: "Steel-WHUN: a modular framework for waste heat and secondary energy network optimization subject to pollution control constraints"
+type: software
+authors:
+  - name: "sleepwalker"
+date-released: 2026-09-03
+license: MIT
